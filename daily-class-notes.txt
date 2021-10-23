@@ -1,0 +1,48 @@
+First time :
+
+1. git clone https://github.com/keyur2714/E_Angular_11_12_OCT.git
+
+2. cd E_Angular_11_12_OCT
+
+3. git pull
+
+second time onwards
+
+1. cd E_Angular_11_12_OCT
+
+2. git pull
+
+e:/keyur-java/E_Angular_11_12_OCT
+
+e:/keyur-java/Ethans_Angular_Practice
+
+cd e:/keyur-java/Ethans_Angular_Practice
+
+ng new welcome-app
+
+welcome-app
+	node_modules - <All Dependency>
+
+package manager - npm - node package manager
+
+- each component has following files/attributes
+
+	1 -  .html (template)
+	2 -  .ts (type script) --- Component Class File
+	3 -  .css (style sheet)	
+	4 -  .spec.ts (Unit Testing file) - Optional
+	5 - selector name (Component name)
+	
+	-- selector need to define inside component class
+	
+	
+	to make component we need to use Decorator - @Component
+	
+	
+	
+<h1>{{message}}</h1> -- String interpulation
+		
+
+
+
+
